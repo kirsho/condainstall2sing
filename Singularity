@@ -12,7 +12,7 @@ From: continuumio/miniconda3
 # load the definition files
 
 # If .yml
-    	# xxxx.yml
+    	# changename.yml
 
 	Singularity	# definition file
 
